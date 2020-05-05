@@ -1,0 +1,210 @@
+p,input{
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    text-align: right;
+}
+input{
+    text-align: center;
+    background-color: #fff;
+    border-color: green;
+}
+.social-menu{
+display:block;
+float: left;
+}
+.social-menu ul li{
+    display: inline;
+    float:inline-start;
+    margin: 15px;
+    color: #fff;
+    
+}
+
+
+.ios{    position: fixed;
+}
+
+
+
+
+ul{
+    list-style: none;
+    float: right;
+    border-image-width: 1px;
+
+
+}
+
+.main ul li{
+    display:inline-block;
+    border: 2px solid #fff;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    transition: 0,6s ease;
+    
+}
+
+.active,ul li a:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+
+.main1{
+    display:none ;
+}
+
+.main ul li .main1{
+    display: block;
+    position: absolute;
+    background-color: #fff;
+    color: black;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+ h1{
+     text-align: center;
+     color: blue;
+ }   
+
+.one{
+    color: black;
+    background-color: white;
+    letter-spacing: 0em;
+    line-height: 2em; 
+     word-spacing: 0.5em;
+    text-align: justify;
+    margin: 5px;
+    padding: 25px;
+    opacity: .8;
+    
+}
+
+.two{
+    color: black;
+    background-color: white;
+    letter-spacing: 0em;
+    line-height: 2em; 
+     word-spacing: 0.5em;
+    text-align: justify;
+    margin: 5px;
+    padding: 25px;
+    opacity: .8;
+}
+.three{
+    color: black;
+    background-color: white;
+    letter-spacing: 0em;
+    line-height: 2em; 
+     word-spacing: 0.5em;
+    text-align: justify;
+    margin: 5px;
+    padding: 25px;
+    opacity: .8;
+}
+.four{
+    color: black;
+    background-color: white;
+    letter-spacing: 0em;
+    line-height: 2em; 
+     word-spacing: 0.5em;
+    text-align: justify;
+    margin: 5px;
+    padding: 25px;
+    opacity: .8;
+}
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+
+
+    
+
+}
+.column{
+    float: left;
+/*    width: 300px;*/
+    padding: 0px;
+    color: blue;
+    text-align: right;
+}
+
+
+.proj{
+    text-align: center;
+    mar
+    
+}
+
+
+.column,h3{
+    border:white solid 2px;
+}
+
+.class1{
+    width: 400px;
+    height: 200px;
+    float: left;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    color: blue;
+    background-color: #fff;
+    margin: 25px;
+    padding: 5px;
+
+}
+.title-icon{
+    height: 200px;
+    margin: 0px auto;
+    width: 150px;
+}
+.class2{
+    width: 600px;
+    height: 100px;
+    float:left;
+    text-align: center;
+    color: blue;
+    background-color: #fff;
+    margin: 25px;
+    padding: 5px;
+    border: 6px solid whitesmoke;
+}
+
+.five{
+    background-color: blue;
+    display: inline;
+    float:left;
+    padding: 150px;
+    margin: 20px;
+    color: white;
+    
+}
+h5{
+    display: block;
+    text-align: center;
+    width: 300px;
+    color: blue;
+}
+h12{
+    color: blue;
+}
+.bio{
+    color: brown;
+    background-color: white;
+    width: ;
+    
+}
+
+.i{
+    ;
+}
