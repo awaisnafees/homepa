@@ -204,7 +204,10 @@ h12{
     width: ;
     
 }
-
-.i{
-    ;
+#footer {
+    background-color: #000;
+    position: relative;
+    height: 600px;
+    margin-top: 200px;
+    color: #fff;
 }
